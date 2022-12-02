@@ -1,0 +1,21 @@
+.App {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-film {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid salmon;
+  text-align: center;
+}
+
+.card-body-stars {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
